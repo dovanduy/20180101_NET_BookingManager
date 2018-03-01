@@ -83,7 +83,8 @@ namespace AdvertManageClient
 
         private void btnUsers_Click(object sender, RoutedEventArgs e)
         {
-            if (AMS.ViewModel.ViewModelObject.User.LoginId.Equals("juneberry"))
+            // if (AMS.ViewModel.ViewModelObject.User.LoginId.Equals("cw"))
+            if (AMS.ViewModel.ViewModelObject.User.LoginId.Trim()=="cw")
             {
                 uc_SchoolManageForm.Visibility = System.Windows.Visibility.Collapsed;
                 uc_MainForm.Visibility = System.Windows.Visibility.Collapsed;

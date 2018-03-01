@@ -20,9 +20,9 @@
                 <Button Content="" Height="70" x:Name="btnStic" Width="60" Margin="260,40,0,0" Style="{DynamicResource ButtonStyle4}" IsTabStop="False" Click="btnStic_Click" />
                 <Button Content="" Height="70" x:Name="btnUsers" Width="60" Margin="340,40,0,0" Style="{DynamicResource ButtonStyle5}" IsTabStop="False" Click="btnUsers_Click" />
                 <Button Content="" Height="70" x:Name="btnSystem" Width="60" Margin="420,40,0,0" Style="{DynamicResource ButtonStyle7}" IsTabStop="False" Click="btnSystem_Click" />
-                <Button Content="新版本" Height="60" Name="button1" Width="60" Margin="500,40,0,0" Style="{StaticResource ButtonStyle_Orange_Write}" Click="button1_Click" />
+                <!--<Button Content="新版本" Height="60" Name="button1" Width="60" Margin="500,40,0,0" Style="{StaticResource ButtonStyle_Orange_Write}" Click="button1_Click" />-->
                 <Image Height="90" x:Name="imagelogo" Stretch="Fill" Width="270" Source="/AdvertManageClient;component/Image/juneberry.png"  Margin="700,10,0,0" Canvas.Left="5" Canvas.Top="6" />
-                <!--<Image Height="15" x:Name="imagelogo2" Stretch="Fill" Width="150" Source="/AdvertManageClient;component/Image/ZBWXLOGO.png"  Margin="10,0,0,0" Canvas.Top="6" Canvas.Left="-4" />-->
+                <Image Height="15" x:Name="imagelogo2" Stretch="Fill" Width="150" Source="/AdvertManageClient;component/Image/ZBWXLOGO.png"  Margin="10,0,0,0" Canvas.Top="6" Canvas.Left="-4" />
             </Canvas>
 
             <Button Content="" Width="40" Height="30" RenderTransformOrigin="3.3,0.8" Margin="950,0,10,0" Panel.ZIndex="5" Style="{DynamicResource ButtonCloseStyle}" Click="Button_Click" />

@@ -39,7 +39,7 @@
         <Setter Property="FocusVisualStyle" Value="{x:Null}"/>
         <Setter Property="Background" Value="{StaticResource SubmitBtn}"/>
         <Setter Property="BorderBrush" Value="{x:Null}"/>
-        <Setter Property="Foreground" Value="#FFFDFDFD"/>
+        <Setter Property="Foreground" Value="#FFFDFD"/>
         <Setter Property="FontSize" Value="14"/>
         <Setter Property="FontWeight" Value="Bold"/>
         <Setter Property="FontFamily" Value="黑体"/>
@@ -101,19 +101,19 @@
     </Style>
     <Style x:Key="ChildWindowsStyle" TargetType="{x:Type Window}">
         <Setter Property="AllowsTransparency" Value="true"/>
-        <Setter Property="Background" Value="{StaticResource StackPanelMiddle}"/>
+        <Setter Property="Background" Value="#FFFFFF"/>
         <Setter Property="ResizeMode" Value="NoResize"/>
         <Setter Property="WindowStyle" Value="None"/>
-        <Setter Property="OpacityMask" Value="#FF29AAE7"/>
+        <Setter Property="OpacityMask" Value="#d95b5b"/>
         <Setter Property="BorderThickness" Value="0,40,0,10"/>
-        <Setter Property="BorderBrush" Value="#FF29AAE7"/>
+        <Setter Property="BorderBrush" Value="#d95b5b"/>
         <Setter Property="Template">
             <Setter.Value>
                 <ControlTemplate TargetType="{x:Type Window}">
                     <Grid Margin="5">
-                        <Rectangle Fill="#FF29AAE7" RadiusX="5" RadiusY="5">
+                        <Rectangle Fill="#d95b5b" RadiusX="5" RadiusY="5">
                             <Rectangle.Effect>
-                                <DropShadowEffect BlurRadius="10" ShadowDepth="0" Color="Gray"/>
+                                <DropShadowEffect BlurRadius="10" ShadowDepth="0" Color="#d95b5b"/>
                             </Rectangle.Effect>
                         </Rectangle>
                         <Border Background="{TemplateBinding Background}"
@@ -134,7 +134,7 @@
         <Setter Property="Background" Value="#FFFFFF"/>
         <Setter Property="ResizeMode" Value="NoResize"/>
         <Setter Property="WindowStyle" Value="None"/>
-        <Setter Property="OpacityMask" Value="#FFE28B5D"/>
+        <Setter Property="OpacityMask" Value="#FFE28B"/>
         <Setter Property="BorderThickness" Value="0,40,0,10"/>
         <Setter Property="BorderBrush" Value="#FFE28B5D"/>
         <Setter Property="Template">
