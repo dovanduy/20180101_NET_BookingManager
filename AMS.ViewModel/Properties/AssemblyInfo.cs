@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("AMS.ViewModel")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("智佰闻欣")]
+[assembly: AssemblyCompany("楚惟科技")]
 [assembly: AssemblyProduct("AMS.ViewModel")]
-[assembly: AssemblyCopyright("Copyright © 智佰闻欣 2014")]
+[assembly: AssemblyCopyright("Copyright © 楚惟科技 2014")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

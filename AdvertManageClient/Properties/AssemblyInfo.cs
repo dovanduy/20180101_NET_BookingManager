@@ -10,9 +10,9 @@ using System.Windows;
 [assembly: AssemblyTitle("AdvertManageClient")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("智佰闻欣")]
+[assembly: AssemblyCompany("楚惟科技")]
 [assembly: AssemblyProduct("AdvertManageClient")]
-[assembly: AssemblyCopyright("Copyright © 智佰闻欣 2013")]
+[assembly: AssemblyCopyright("Copyright © 楚惟科技 2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

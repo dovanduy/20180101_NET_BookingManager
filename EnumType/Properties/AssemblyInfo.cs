@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("EnumType")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("南京智佰闻欣文化传媒有限公司")]
+[assembly: AssemblyCompany("楚惟科技")]
 [assembly: AssemblyProduct("EnumType")]
-[assembly: AssemblyCopyright("Copyright © 2013 智佰闻欣")]
+[assembly: AssemblyCopyright("Copyright © 2018 楚惟科技")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
