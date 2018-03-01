@@ -19,7 +19,7 @@
                 <ImageBrush ImageSource="/AdvertManageClient;component/Image/loginTop.jpg" />
             </StackPanel.Background>-->
             <Canvas>
-                <Image Height="30" x:Name="image1" Stretch="Fill" Width="90" Margin="10,10,0,10" Source="/AdvertManageClient;component/Image/juneberry.png" />
+                <!--<Image Height="30" x:Name="image1" Stretch="Fill" Width="90" Margin="10,10,0,10" Source="/AdvertManageClient;component/Image/juneberry.png" />-->
                 <Image Height="40" x:Name="image2" Stretch="Fill" Width="120" Margin="140,5,0,0" Source="/AdvertManageClient;component/Image/UserLogin.png" />
             </Canvas>
         </StackPanel>

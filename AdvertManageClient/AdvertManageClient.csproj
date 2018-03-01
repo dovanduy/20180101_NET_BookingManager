@@ -847,7 +847,6 @@
     <Resource Include="Logo.ico" />
     <Resource Include="Image\gdgg1.png" />
     <Resource Include="Image\gdgg2.png" />
-    <Resource Include="bin\Debug\校园GO购logo.png" />
     <Content Include="COM\AxInterop.WMPLib.dll" />
     <Content Include="bin\Debug\ffmpeg.exe" />
     <Content Include="COM\Interop.WMPLib.dll" />
